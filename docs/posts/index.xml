@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on kibolog</title>
+    <link>https://kibou811.github.io/kibolog/posts/</link>
+    <description>Recent content in Posts on kibolog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 29 May 2019 23:25:31 +0900</lastBuildDate>
+    
+	<atom:link href="https://kibou811.github.io/kibolog/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ブログを移転しました</title>
+      <link>https://kibou811.github.io/kibolog/posts/blog-renewal/</link>
+      <pubDate>Wed, 29 May 2019 23:25:31 +0900</pubDate>
+      
+      <guid>https://kibou811.github.io/kibolog/posts/blog-renewal/</guid>
+      <description>今までここでブログを投稿していましたが、ドメインの期限切れを機に移行することにしました。 まだ以前の記事に手は付けていませんが、それらをどうす</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,4 +6,5 @@ paginate = 3
 theme = "hugo-nuo"
 publishDir = "docs"
 hasCJKLanguage = true
-languageCode = "ja-jp"
+languageCode = "ja"
+disablePathToLower = true
